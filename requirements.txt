@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+langchain-openai
+python-dotenv
+pytube
+youtube-transcript-api
